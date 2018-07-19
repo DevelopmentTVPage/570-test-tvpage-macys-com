@@ -24,6 +24,20 @@
                 ],
                 "domain": "test.tvpage.macys.com"
             }
+        },
+        "player": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "test.tvpage.macys.com"
+            }
         }
     }
 }
