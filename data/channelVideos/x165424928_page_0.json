@@ -1,0 +1,74 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "163565717",
+            "title": "Queen Bee",
+            "date_created": "1525710737",
+            "loginId": "1759121",
+            "tags": "",
+            "description": "Cute  Espadrille Flats",
+            "asset": {
+                "videoMeta": {
+                    "duration": "5",
+                    "width": 608,
+                    "height": 1080
+                },
+                "mediaDuration": "5",
+                "prettyDuration": "00:00:05",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759121\/canvas\/1920\/1080\/518734590-1531846009.png",
+                "type": "mp4",
+                "assetId": "163565717",
+                "assetTitle": "IMG 7507",
+                "assetTitleTextEncoded": "img-7507",
+                "loginId": "1759121",
+                "analyticsObj": {
+                    "pg": 0,
+                    "vd": "163565717",
+                    "li": "1759121"
+                },
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163565717\/789c8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 608,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163565717\/789c8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 404,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163565717\/789c8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 270,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163565717\/789c8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 202,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163565717\/789c8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 134,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "165424928",
+            "url": "\/hg\/img-7507\/165424928-163565717"
+        }
+    ]
+}

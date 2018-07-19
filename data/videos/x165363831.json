@@ -1,0 +1,93 @@
+{
+    "title": "Black Friday in July Sale",
+    "description": "7 more days until this HUGE sale goes live . 30% to 50% off on select cosmetic and fragrances.",
+    "referenceId": "cf1264e568930f76759339f20bf9f3e6",
+    "date_created": "1530561483",
+    "date_modified": "1530562601",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213231",
+    "product_category": "beauty",
+    "id": "165363831",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "vid-51180306-170624-546",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 720,
+            "height": 406
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165363831\/da1b8\/thumb-cf1264e568930f76759339f20bf9f3e6-00002.jpg",
+        "type": "mp4",
+        "assetId": "165363831",
+        "assetTitle": "VID_51180306_170624_546",
+        "assetTitleTextEncoded": "vid-51180306-170624-546",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165363831",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165363831\/da1b8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 406
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165363831\/da1b8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 406
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165363831\/da1b8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 406
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165363831\/da1b8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165363831\/da1b8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Murad",
+    "tvp_enhanced_transcript": null
+}
