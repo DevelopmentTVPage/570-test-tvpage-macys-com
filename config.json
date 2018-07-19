@@ -10,6 +10,20 @@
         "loginId": "1759121",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "macys.com"
+        "cookiedomain": "macys.com",
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "test.tvpage.macys.com"
+            }
+        }
     }
 }
